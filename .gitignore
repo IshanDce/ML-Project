@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary caches
+.tmp/
+.tmp*
+.cache/
+
+# Large Datasets & Outputs (>100MB exceeds GitHub limits)
+dataset/
+output/
+submission.zip
+*.zip
+*.tar.gz
+
+# Environment
+.venv
+.venv/
+env/
+venv/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
